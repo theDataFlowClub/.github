@@ -2,16 +2,20 @@
 <br>
 
 
-<pre align="center">
+```text
 
 Bio
 
 I aspire to be a MadMath: trying advanced algorithms like 1 + 1, print ("hello world")...
 
-I working as a Data consultant, i studied Architecture and Urbanism, Electromechanical Technician as well;
+I studied Architecture and Urbanism, Electromechanical Technician as well;
 in the 80's and early 90's Digital Graphic Design and Programmer.
-Patterns and Coding has been my hobby since I was a kid.
+Patterns and Coding has been my hobby since I was a kid. I'm currently pursuing 
+a Bachelor of Applied Science in Software Development at BYU-i through 
+the Pathway Connect program.
 
- </pre>
-This is my public projects: Corrections, Comments and questions are always welcome. nothing grows alone
+```
+
+These are my public projects: 
+Corrections, Comments and questions are always welcome.
 <br><br>
