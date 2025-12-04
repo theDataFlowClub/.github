@@ -12,7 +12,7 @@ I studied Architecture and Urbanism, Electromechanical Technician as well;
 in the 80's and early 90's Digital Graphic Design and Programmer.
 Patterns and Coding has been my hobby since I was a kid. I'm currently pursuing 
 a Bachelor of Applied Science in Software Development at BYU-i through 
-the Pathway Connect program.
+the Pathway Connect program and a TSU in Mathemathics.
 
 ```
 
